@@ -1,4 +1,4 @@
-# VectorMath
+# Vector Math
 
 A C++ mathematics library implementing 2D and 3D vectors and matrices, with support for vector arithmetic, linear algebra, and matrix transformations.
 
